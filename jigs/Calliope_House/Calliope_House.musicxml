@@ -43,7 +43,7 @@
     <credit-words default-x="595.275" default-y="1627.09" justify="center" valign="top" font-size="24">Calliope House</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="1133.86" default-y="1527.09" justify="right" valign="bottom" font-size="12">Traditional
+    <credit-words default-x="1133.86" default-y="1527.09" justify="right" valign="bottom" font-size="12">Dave Richardson
 </credit-words>
     </credit>
   <part-list>
@@ -727,7 +727,6 @@
         <beam number="1">end</beam>
         </note>
       <barline location="right">
-        <bar-style>light-light</bar-style>
         <ending number="2" type="stop"/>
         </barline>
       </measure>

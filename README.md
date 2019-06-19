@@ -6,7 +6,7 @@ Use a notation app like [MuseScore 3](https://musescore.org) or similar.
 
 ![Muse Score](README_images/musescore.png)
 
-Transcribe your tunes, and Export them to the appropriate folder as `.musicxml` along with a `.png` file and a `README.md` if desired.
+Transcribe your tunes, and Export them to the appropriate folder as `.musicxml` along with a `.png` file, and create a `README.md` if desired.
 
 Folder structure is like this:
 

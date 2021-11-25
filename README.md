@@ -14,7 +14,7 @@ Folder structure is like this:
 - jigs
   - Tune_Name
     Tune_Name.musicxml
-    Tune_Name.png
+    Tune_Name-1.png
     README.md
 - reels
 ```

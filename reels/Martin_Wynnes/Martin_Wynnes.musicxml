@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Composer</creator>
     <encoding>
-      <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-11-20</encoding-date>
+      <software>MuseScore 3.1.0</software>
+      <encoding-date>2019-06-15</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -37,16 +37,14 @@
         <bottom-margin>113.386</bottom-margin>
         </page-margins>
       </page-layout>
-    <word-font font-family="Edwin" font-size="10"/>
-    <lyric-font font-family="Edwin" font-size="11"/>
+    <word-font font-family="FreeSerif" font-size="10"/>
+    <lyric-font font-family="FreeSerif" font-size="11"/>
     </defaults>
   <credit page="1">
-    <credit-type>title</credit-type>
-    <credit-words default-x="612" default-y="1527.62" justify="center" valign="top" font-size="24">Martin Wynne’s</credit-words>
+    <credit-words default-x="612" default-y="1527.31" justify="center" valign="top" font-size="24">Martin Wynne's</credit-words>
     </credit>
   <credit page="1">
-    <credit-type>composer</credit-type>
-    <credit-words default-x="1167.31" default-y="1427.62" justify="right" valign="top" font-size="12">Traditional</credit-words>
+    <credit-words default-x="1167.31" default-y="1427.31" justify="right" valign="bottom" font-size="12">Traditional</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -65,11 +63,11 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="0" implicit="yes" width="156.14">
+    <measure number="0" implicit="yes" width="158.20">
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>50.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>170.00</top-system-distance>
@@ -89,7 +87,7 @@
           <line>2</line>
           </clef>
         </attributes>
-      <note default-x="103.48" default-y="-40.00">
+      <note default-x="110.28" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -100,12 +98,12 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="1" width="272.08">
+    <measure number="1" width="285.14">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward"/>
         </barline>
-      <note default-x="31.83" default-y="-35.00">
+      <note default-x="28.37" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -117,7 +115,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="63.21" default-y="-20.00">
+      <note default-x="61.94" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -128,7 +126,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="94.58" default-y="-25.00">
+      <note default-x="95.52" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -139,7 +137,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="125.96" default-y="-35.00">
+      <note default-x="129.09" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -151,7 +149,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="157.33" default-y="-40.00">
+      <note default-x="162.67" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -161,7 +159,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="207.53" default-y="-35.00">
+      <note default-x="216.39" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -173,7 +171,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="238.91" default-y="-40.00">
+      <note default-x="249.97" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -185,8 +183,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="2" width="339.65">
-      <note default-x="13.00" default-y="-45.00">
+    <measure number="2" width="359.09">
+      <note default-x="10.00" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -197,7 +195,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="52.52" default-y="-55.00">
+      <note default-x="52.27" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -208,7 +206,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="92.03" default-y="-55.00">
+      <note default-x="94.54" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -226,7 +224,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="121.28" default-y="-55.00">
+      <note default-x="125.83" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -241,7 +239,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="150.53" default-y="-55.00">
+      <note default-x="157.12" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -259,7 +257,7 @@
           <tuplet type="stop"/>
           </notations>
         </note>
-      <note default-x="179.78" default-y="-45.00">
+      <note default-x="188.41" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -270,7 +268,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="219.30" default-y="-55.00">
+      <note default-x="230.68" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -281,7 +279,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="258.81" default-y="-60.00">
+      <note default-x="272.95" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -292,7 +290,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="298.33" default-y="-45.00">
+      <note default-x="315.22" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -304,8 +302,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="3" width="292.75">
-      <note default-x="16.50" default-y="-55.00">
+    <measure number="3" width="308.17">
+      <note default-x="13.80" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -316,7 +314,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="49.89" default-y="-40.00">
+      <note default-x="49.41" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -327,7 +325,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="83.27" default-y="-40.00">
+      <note default-x="85.03" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -345,7 +343,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="107.98" default-y="-40.00">
+      <note default-x="111.39" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -360,7 +358,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="132.69" default-y="-40.00">
+      <note default-x="137.75" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -378,7 +376,7 @@
           <tuplet type="stop"/>
           </notations>
         </note>
-      <note default-x="157.41" default-y="-35.00">
+      <note default-x="164.12" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -390,7 +388,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="190.79" default-y="-40.00">
+      <note default-x="199.73" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -401,7 +399,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="224.18" default-y="-45.00">
+      <note default-x="235.35" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -412,7 +410,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="257.56" default-y="-40.00">
+      <note default-x="270.96" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -424,17 +422,17 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="4" width="316.19">
+    <measure number="4" width="317.72">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <left-margin>0.00</left-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
         </print>
-      <note default-x="88.35" default-y="-35.00">
+      <note default-x="89.19" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -446,7 +444,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="116.61" default-y="-25.00">
+      <note default-x="117.56" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -457,7 +455,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="144.86" default-y="-20.00">
+      <note default-x="145.92" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -468,7 +466,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="173.12" default-y="-15.00">
+      <note default-x="174.29" default-y="-15.00">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -480,7 +478,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="201.37" default-y="-10.00">
+      <note default-x="202.65" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -491,7 +489,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="229.63" default-y="-15.00">
+      <note default-x="231.02" default-y="-15.00">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -503,7 +501,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="257.88" default-y="-20.00">
+      <note default-x="259.39" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -514,7 +512,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="286.14" default-y="-25.00">
+      <note default-x="287.75" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -526,8 +524,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="5" width="222.84">
-      <note default-x="13.00" default-y="-35.00">
+    <measure number="5" width="219.73">
+      <note default-x="10.00" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -539,7 +537,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="40.28" default-y="-20.00">
+      <note default-x="37.39" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -550,7 +548,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="67.56" default-y="-25.00">
+      <note default-x="64.77" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -561,7 +559,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="94.84" default-y="-35.00">
+      <note default-x="92.16" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -573,7 +571,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="122.12" default-y="-40.00">
+      <note default-x="119.54" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -583,7 +581,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="165.77" default-y="-35.00">
+      <note default-x="163.36" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -595,7 +593,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="193.05" default-y="-40.00">
+      <note default-x="190.74" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -607,8 +605,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="6" width="309.24">
-      <note default-x="13.00" default-y="-45.00">
+    <measure number="6" width="312.04">
+      <note default-x="10.00" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -619,7 +617,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="48.82" default-y="-55.00">
+      <note default-x="46.55" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -630,7 +628,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="84.63" default-y="-55.00">
+      <note default-x="83.10" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -648,7 +646,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="111.15" default-y="-55.00">
+      <note default-x="110.15" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -663,7 +661,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="137.66" default-y="-55.00">
+      <note default-x="137.20" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -681,7 +679,7 @@
           <tuplet type="stop"/>
           </notations>
         </note>
-      <note default-x="164.17" default-y="-45.00">
+      <note default-x="164.25" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -692,7 +690,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="199.99" default-y="-55.00">
+      <note default-x="200.80" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -703,7 +701,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="235.80" default-y="-60.00">
+      <note default-x="237.35" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -714,7 +712,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="271.62" default-y="-45.00">
+      <note default-x="273.90" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -726,8 +724,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="7" width="262.34">
-      <note default-x="16.50" default-y="-55.00">
+    <measure number="7" width="261.12">
+      <note default-x="13.80" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -738,7 +736,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="46.19" default-y="-40.00">
+      <note default-x="43.69" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -749,7 +747,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="75.87" default-y="-40.00">
+      <note default-x="73.58" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -767,7 +765,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="97.85" default-y="-40.00">
+      <note default-x="95.71" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -782,7 +780,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="119.82" default-y="-40.00">
+      <note default-x="117.83" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -800,7 +798,7 @@
           <tuplet type="stop"/>
           </notations>
         </note>
-      <note default-x="141.79" default-y="-35.00">
+      <note default-x="139.96" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -812,7 +810,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="171.48" default-y="-40.00">
+      <note default-x="169.85" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -823,7 +821,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="201.17" default-y="-45.00">
+      <note default-x="199.74" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -834,7 +832,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="230.85" default-y="-40.00">
+      <note default-x="229.63" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -846,17 +844,17 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="8" width="356.41">
+    <measure number="8" width="331.68">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
         </print>
-      <note default-x="88.35" default-y="-35.00">
+      <note default-x="89.19" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -868,7 +866,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="123.59" default-y="-20.00">
+      <note default-x="121.34" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -879,7 +877,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="158.82" default-y="-20.00">
+      <note default-x="153.50" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -890,20 +888,18 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="194.05" default-y="-25.00">
+      <note default-x="185.65" default-y="-25.00">
         <pitch>
           <step>A</step>
-          <alter>1</alter>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="229.29" default-y="-20.00">
+      <note default-x="217.81" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -914,7 +910,7 @@
         <dot/>
         <stem>down</stem>
         </note>
-      <note default-x="298.03" default-y="-25.00">
+      <note default-x="280.54" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -922,7 +918,6 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>natural</accidental>
         <stem>up</stem>
         </note>
       <barline location="right">
@@ -930,12 +925,12 @@
         <repeat direction="backward"/>
         </barline>
       </measure>
-    <measure number="9" width="239.49">
+    <measure number="9" width="246.72">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward"/>
         </barline>
-      <note default-x="26.33" default-y="-35.00">
+      <note default-x="23.37" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -947,7 +942,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="54.11" default-y="-20.00">
+      <note default-x="52.54" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -958,7 +953,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="81.89" default-y="-25.00">
+      <note default-x="81.72" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -969,7 +964,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="109.68" default-y="-35.00">
+      <note default-x="110.90" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -981,7 +976,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="137.46" default-y="-25.00">
+      <note default-x="140.08" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -991,7 +986,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="181.91" default-y="-35.00">
+      <note default-x="186.76" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1003,7 +998,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="209.69" default-y="-25.00">
+      <note default-x="215.94" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1015,8 +1010,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="10" width="262.15">
-      <note default-x="13.00" default-y="-20.00">
+    <measure number="10" width="270.95">
+      <note default-x="10.00" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1034,7 +1029,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="35.27" default-y="-15.00">
+      <note default-x="33.35" default-y="-15.00">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1050,7 +1045,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="57.54" default-y="-10.00">
+      <note default-x="56.70" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1068,7 +1063,7 @@
           <tuplet type="stop"/>
           </notations>
         </note>
-      <note default-x="79.82" default-y="-5.00">
+      <note default-x="80.06" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1079,7 +1074,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="109.91" default-y="5.00">
+      <note default-x="111.61" default-y="5.00">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -1090,7 +1085,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="140.00" default-y="0.00">
+      <note default-x="143.15" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1102,7 +1097,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="170.09" default-y="-10.00">
+      <note default-x="174.70" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1113,7 +1108,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="200.17" default-y="-10.00">
+      <note default-x="206.25" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1124,7 +1119,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="230.26" default-y="-5.00">
+      <note default-x="237.80" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1136,8 +1131,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="11" width="252.56">
-      <note default-x="13.00" default-y="0.00">
+    <measure number="11" width="261.27">
+      <note default-x="10.00" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1149,7 +1144,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="42.72" default-y="10.00">
+      <note default-x="41.21" default-y="10.00">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -1160,7 +1155,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="72.44" default-y="10.00">
+      <note default-x="72.42" default-y="10.00">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -1171,7 +1166,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="102.16" default-y="0.00">
+      <note default-x="103.63" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1183,7 +1178,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="131.88" default-y="-5.00">
+      <note default-x="134.84" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1194,7 +1189,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="161.60" default-y="5.00">
+      <note default-x="166.04" default-y="5.00">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -1205,7 +1200,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="191.32" default-y="0.00">
+      <note default-x="197.25" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1217,7 +1212,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="221.04" default-y="-5.00">
+      <note default-x="228.46" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1229,17 +1224,17 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="12" width="333.29">
+    <measure number="12" width="336.10">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
         </print>
-      <note default-x="88.35" default-y="-10.00">
+      <note default-x="89.19" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1250,7 +1245,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="118.75" default-y="0.00">
+      <note default-x="119.85" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1262,7 +1257,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="149.14" default-y="-5.00">
+      <note default-x="150.52" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1273,7 +1268,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="179.53" default-y="-10.00">
+      <note default-x="181.18" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1284,7 +1279,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="209.92" default-y="-20.00">
+      <note default-x="211.84" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1295,7 +1290,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="240.32" default-y="-25.00">
+      <note default-x="242.51" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1306,7 +1301,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="270.71" default-y="-35.00">
+      <note default-x="273.17" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1318,7 +1313,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="301.10" default-y="-40.00">
+      <note default-x="303.83" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1330,8 +1325,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="13" width="239.94">
-      <note default-x="13.00" default-y="-35.00">
+    <measure number="13" width="238.11">
+      <note default-x="10.00" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1343,7 +1338,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="42.62" default-y="-20.00">
+      <note default-x="39.80" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1354,7 +1349,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="72.25" default-y="-25.00">
+      <note default-x="69.61" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1365,7 +1360,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="101.87" default-y="-35.00">
+      <note default-x="99.41" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1377,7 +1372,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="131.50" default-y="-25.00">
+      <note default-x="129.21" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1387,7 +1382,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="178.90" default-y="-35.00">
+      <note default-x="176.90" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1399,7 +1394,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="208.52" default-y="-25.00">
+      <note default-x="206.70" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1411,8 +1406,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="14" width="275.94">
-      <note default-x="13.00" default-y="-20.00">
+    <measure number="14" width="275.70">
+      <note default-x="10.00" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1430,7 +1425,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="36.51" default-y="-15.00">
+      <note default-x="33.78" default-y="-15.00">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1446,7 +1441,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="60.03" default-y="-10.00">
+      <note default-x="57.56" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1464,7 +1459,7 @@
           <tuplet type="stop"/>
           </notations>
         </note>
-      <note default-x="83.54" default-y="-5.00">
+      <note default-x="81.34" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1475,7 +1470,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="115.31" default-y="5.00">
+      <note default-x="113.47" default-y="5.00">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -1486,7 +1481,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="147.07" default-y="0.00">
+      <note default-x="145.60" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1498,7 +1493,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="178.84" default-y="-10.00">
+      <note default-x="177.72" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1509,7 +1504,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="210.60" default-y="-10.00">
+      <note default-x="209.85" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1520,7 +1515,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="242.37" default-y="-5.00">
+      <note default-x="241.98" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1532,8 +1527,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="15" width="261.44">
-      <note default-x="16.50" default-y="15.00">
+    <measure number="15" width="260.71">
+      <note default-x="13.80" default-y="15.00">
         <pitch>
           <step>B</step>
           <octave>5</octave>
@@ -1544,7 +1539,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="46.89" default-y="0.00">
+      <note default-x="44.46" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1556,7 +1551,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="77.29" default-y="10.00">
+      <note default-x="75.13" default-y="10.00">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -1567,7 +1562,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="107.68" default-y="0.00">
+      <note default-x="105.79" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1579,7 +1574,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="138.07" default-y="-5.00">
+      <note default-x="136.45" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1590,7 +1585,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="168.46" default-y="5.00">
+      <note default-x="167.12" default-y="5.00">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -1601,7 +1596,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="198.86" default-y="0.00">
+      <note default-x="197.78" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1613,7 +1608,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="229.25" default-y="-5.00">
+      <note default-x="228.44" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1625,17 +1620,17 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="16" width="510.86">
+    <measure number="16" width="501.03">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
-            <right-margin>599.76</right-margin>
+            <left-margin>0.00</left-margin>
+            <right-margin>609.58</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
         </print>
-      <note default-x="88.35" default-y="-10.00">
+      <note default-x="89.19" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1646,7 +1641,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="146.43" default-y="-20.00">
+      <note default-x="145.80" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1657,7 +1652,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="204.50" default-y="-25.00">
+      <note default-x="202.41" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1668,7 +1663,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="262.58" default-y="-35.00">
+      <note default-x="259.01" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1680,7 +1675,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="320.65" default-y="-20.00">
+      <note default-x="315.62" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1691,7 +1686,7 @@
         <dot/>
         <stem>down</stem>
         </note>
-      <note default-x="433.95" default-y="-25.00">
+      <note default-x="426.06" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>

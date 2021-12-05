@@ -21,4 +21,6 @@ Folder structure is like this:
 
 Then issue a pull request to get your updates merged.
 
+(Note that when browsing the repository in GitHub, light mode is recommended so you can see the exported transparent PNGs.)
+
 _Sláinte_

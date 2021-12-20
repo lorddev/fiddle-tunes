@@ -619,9 +619,9 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="84.33" default-y="-15.00">
+      <note default-x="84.33" default-y="0.00">
         <pitch>
-          <step>C</step>
+          <step>F</step>
           <alter>1</alter>
           <octave>5</octave>
           </pitch>

@@ -40,7 +40,7 @@
     <lyric-font font-family="FreeSerif" font-size="11"/>
     </defaults>
   <credit page="1">
-    <credit-words default-x="595.276" default-y="1627.09" justify="center" valign="top" font-size="24">The Mouth of the Tobique</credit-words>
+    <credit-words default-x="595.275" default-y="1627.09" justify="center" valign="top" font-size="24">The Mouth of the Tobique</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -661,6 +661,10 @@
         </barline>
       </measure>
     <measure number="7" width="208.88">
+      <barline location="left">
+        <bar-style>heavy-light</bar-style>
+        <repeat direction="forward"/>
+        </barline>
       <note default-x="12.00" default-y="5.00">
         <pitch>
           <step>G</step>
@@ -1137,6 +1141,10 @@
         </barline>
       </measure>
     <measure number="12" width="142.61">
+      <barline location="left">
+        <bar-style>heavy-light</bar-style>
+        <repeat direction="forward"/>
+        </barline>
       <note default-x="12.00" default-y="-30.00">
         <pitch>
           <step>G</step>

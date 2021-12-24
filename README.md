@@ -1,5 +1,5 @@
 # fiddle-tunes
-An archive of traditional Irish and Scottish tunes, in MusicXML format.
+An archive of traditional Irish and Scottish tunes, in MusicXML format. Visit the [Releases](https://github.com/lorddev/fiddle-tunes/releases) page for downloadable PDFs.
 
 ## How to contribute
 Use a notation app like [MuseScore 3](https://musescore.org) or similar.

@@ -35,9 +35,7 @@ Combine the scores, then export a PDF file.
 
 Open the PDF file in Finder on MacOS or another suitable PDF editor.
 
-Insert the title page, and a blank page before the first tune.
-
-![Insert](README_images/insert_page.png)
+Insert the title page, and a blank page or table of contents before the first tune.
 
 ![Title Page](README_images/title_page.png)
 

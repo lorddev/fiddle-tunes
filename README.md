@@ -43,10 +43,6 @@ Insert the title page, and a blank page before the first tune.
 
 Then [create a release](https://github.com/lorddev/fiddle-tunes/releases/new) and upload your compiled PDF. Be sure to add a tag in Git corresponding to the latest commit when creating a release.
 
-{% note %}
-
-**Note:** MuseScore sometimes outputs transparent PNGs when exporting. For best experience when browsing the repository on GitHub, set your view settings to light mode.
-
-{% endnote %}
+> :warning: **Note:** MuseScore sometimes outputs transparent PNGs when exporting. For best experience when browsing the repository on GitHub, set your view settings to light mode.
 
 _Sláinte_

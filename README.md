@@ -1,6 +1,8 @@
 # fiddle-tunes
 An archive of traditional Irish and Scottish tunes, in MusicXML format. Visit the [Releases](https://github.com/lorddev/fiddle-tunes/releases) page for downloadable PDFs.
 
+> :warning: **Note:** MuseScore sometimes outputs transparent PNGs when exporting. For best experience when browsing the repository on GitHub, set your view settings to light mode.
+
 ## How to contribute
 Use a notation app like [MuseScore 3](https://musescore.org) or similar.
 
@@ -23,11 +25,11 @@ Then issue a pull request to get your updates merged.
 
 ## How to publish
 
-Make sure the vertical spacing for the Title is set to 3.00.
+Open all the files you want to publish and save them as `.mscz` files locally. Make sure the vertical spacing for the Title is set to 3.00.
 
 ![Spacer](README_images/spacer_3.png)
 
-Open all the files you want to publish and save them as `.mscz` files locally. Then use the Album feature in MuseScore 2 (not available in MuseScore 3) to merge the scores.
+Then use the Album feature in MuseScore 2 (not available in MuseScore 3) to merge the scores.
 
 ![Album](README_images/album.png)
 
@@ -40,7 +42,5 @@ Insert the title page, and a blank page or table of contents before the first tu
 ![Title Page](README_images/title_page.png)
 
 Then [create a release](https://github.com/lorddev/fiddle-tunes/releases/new) and upload your compiled PDF. Be sure to add a tag in Git corresponding to the latest commit when creating a release.
-
-> :warning: **Note:** MuseScore sometimes outputs transparent PNGs when exporting. For best experience when browsing the repository on GitHub, set your view settings to light mode.
 
 _Sláinte_

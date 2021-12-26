@@ -37,10 +37,10 @@ Combine the scores, then export a PDF file.
 
 Open the PDF file in Finder on MacOS or another suitable PDF editor.
 
-Insert the title page, and a blank page or table of contents before the first tune.
+Insert the title page, and a blank page or table of contents before the first tune. (Because of the built-in pagination footers, the PDF is best printed in double-sided mode, if your printer supports that.)
 
 ![Title Page](README_images/title_page.png)
 
-Then [create a release](https://github.com/lorddev/fiddle-tunes/releases/new) and upload your compiled PDF. Be sure to add a tag in Git corresponding to the latest commit when creating a release.
+Then [create a release](https://github.com/lorddev/fiddle-tunes/releases/new) and upload your compiled PDF. Be sure to add a tag in Git corresponding to the version number when creating a release.
 
 _Sláinte_

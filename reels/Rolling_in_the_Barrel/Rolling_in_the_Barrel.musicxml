@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2021-12-23</encoding-date>
+      <encoding-date>2021-12-31</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -62,7 +62,7 @@
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>195.00</top-system-distance>
@@ -474,6 +474,9 @@
         <type>quarter</type>
         <dot/>
         <stem>down</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="55.49" default-y="0.00">
         <pitch>
@@ -485,6 +488,9 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>down</stem>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="77.78" default-y="10.00">
         <pitch>
@@ -496,6 +502,9 @@
         <type>quarter</type>
         <dot/>
         <stem>down</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="121.27" default-y="0.00">
         <pitch>
@@ -507,13 +516,16 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>down</stem>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       </measure>
     <measure number="7" width="219.21">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
@@ -772,6 +784,9 @@
         <type>quarter</type>
         <dot/>
         <stem>down</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="52.23" default-y="0.00">
         <pitch>
@@ -783,6 +798,9 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>down</stem>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="72.84" default-y="10.00">
         <pitch>

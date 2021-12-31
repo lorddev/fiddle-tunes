@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2021-12-23</encoding-date>
+      <encoding-date>2021-12-31</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -62,8 +62,8 @@
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <left-margin>0.00</left-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <top-system-distance>195.00</top-system-distance>
           </system-layout>
@@ -330,6 +330,9 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
+        <notations>
+          <slur type="start" number="2"/>
+          </notations>
         </note>
       <note default-x="75.02" default-y="-30.00">
         <pitch>
@@ -343,6 +346,7 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <slur type="stop" number="2"/>
           </notations>
         </note>
       <note default-x="102.18" default-y="-35.00">
@@ -509,7 +513,7 @@
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
@@ -572,7 +576,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="182.10" default-y="-35.00">
+      <note default-x="182.09" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -957,14 +961,14 @@
         <stem>down</stem>
         </note>
       <barline location="right">
-        <ending number="2" type="stop"/>
+        <ending number="2" type="discontinue"/>
         </barline>
       </measure>
     <measure number="11" width="354.61">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
@@ -1357,7 +1361,7 @@
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
@@ -1605,6 +1609,9 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="93.72" default-y="-10.00">
         <pitch>
@@ -1615,6 +1622,9 @@
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="93.72" default-y="5.00">
         <chord/>
@@ -1661,6 +1671,9 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="94.86" default-y="10.00">
         <pitch>
@@ -1672,6 +1685,9 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="126.46" default-y="5.00">
         <pitch>

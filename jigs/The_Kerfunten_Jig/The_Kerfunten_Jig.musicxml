@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2021-12-24</encoding-date>
+      <encoding-date>2021-12-31</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -66,7 +66,7 @@
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>195.00</top-system-distance>
@@ -428,7 +428,7 @@
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
@@ -617,7 +617,7 @@
         <beam number="1">end</beam>
         </note>
       <barline location="right">
-        <ending number="2" type="stop"/>
+        <ending number="2" type="discontinue"/>
         </barline>
       </measure>
     <measure number="10" width="135.55">
@@ -825,7 +825,7 @@
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>

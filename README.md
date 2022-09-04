@@ -33,11 +33,11 @@ Then use the Album feature in MuseScore 2 (not available in MuseScore 3) to merg
 
 ![Album](README_images/album.png)
 
-Combine the scores, then export a PDF file.
+Combine the scores. Set the inner margins to 14.00mm, and check for windows and orphans. Then export a PDF file.
 
-Open the PDF file in Finder on MacOS or another suitable PDF editor.
+Open the PDF file in Preview on MacOS or another suitable PDF editor.
 
-Insert the title page, and a blank page or table of contents before the first tune. (Because of the built-in pagination footers, the PDF is best printed in double-sided mode, if your printer supports that.)
+Insert the title page, and a table of contents before the first tune. (Because of the built-in pagination footers, the PDF is best printed in double-sided mode, if your printer supports that.)
 
 ![Title Page](README_images/title_page.png)
 

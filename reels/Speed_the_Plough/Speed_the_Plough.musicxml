@@ -8,7 +8,7 @@
     <creator type="composer">Composer</creator>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2021-12-23</encoding-date>
+      <encoding-date>2022-09-04</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -43,6 +43,9 @@
   <credit page="1">
     <credit-words default-x="612" default-y="1497.31" justify="center" valign="top" font-family="FreeSerif" font-size="24">Speed the Plough</credit-words>
     </credit>
+  <credit page="1">
+    <credit-words default-x="612" default-y="1440.61" justify="center" valign="top" font-family="FreeSerif">(Tom Billy’s)</credit-words>
+    </credit>
   <part-list>
     <score-part id="P1">
       <part-name>Piano</part-name>
@@ -64,8 +67,8 @@
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>195.00</top-system-distance>
           </system-layout>
@@ -448,7 +451,7 @@
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
@@ -813,7 +816,7 @@
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
@@ -1190,7 +1193,7 @@
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
@@ -1629,7 +1632,7 @@
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>-0.00</left-margin>
+            <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
@@ -1669,7 +1672,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="151.58" default-y="10.00">
+      <note default-x="151.57" default-y="10.00">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -2105,7 +2108,7 @@
         </note>
       <barline location="right">
         <bar-style>light-light</bar-style>
-        <ending number="2" type="stop"/>
+        <ending number="2" type="discontinue"/>
         </barline>
       </measure>
     </part>

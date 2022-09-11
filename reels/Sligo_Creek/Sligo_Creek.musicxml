@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2022-09-10</encoding-date>
+      <encoding-date>2022-09-11</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -43,7 +43,7 @@
     <credit-words default-x="1114.42" default-y="1503.77" justify="right" valign="bottom">Danny Noveck</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="600.075" default-y="1611.63" justify="center" valign="top" font-size="22">Sligo Creek</credit-words>
+    <credit-words default-x="600.075" default-y="1581.63" justify="center" valign="top" font-size="22">Sligo Creek</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">

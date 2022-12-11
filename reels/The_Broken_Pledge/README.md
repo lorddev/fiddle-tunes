@@ -1,5 +1,5 @@
-# The Connaughtman’s Rambles
+# The Broken Pledge
 
-In the B section some people tend to play the first, third, and fifth measures a different way each time. Since this is hard for others to remember, I've standardized it.
+Transcribed from the first variation of each section from track #3 from Martin Hayes and Dennis Cahill's 1997 album _The Lonesome Touch_.
 
-![The Connaughtman’s Rambles](The_Connaughtmans_Rambles-1.png)
+![The Broken Pledge](The_Broken_Pledge-1.png)

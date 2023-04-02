@@ -1,5 +1,5 @@
 # fiddle-tunes
-An archive of 48 traditional Irish fiddle tunes, in MusicXML format. Visit the [Releases](https://github.com/lorddev/fiddle-tunes/releases) page for downloadable PDFs.
+An archive of 49 traditional Irish fiddle tunes, in MusicXML format. Visit the [Releases](https://github.com/lorddev/fiddle-tunes/releases) page for downloadable PDFs.
 
 > :warning: **Note:** MuseScore sometimes outputs transparent PNGs when exporting. For best experience when browsing the repository on GitHub, set your view settings to light mode.
 

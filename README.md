@@ -33,7 +33,7 @@ Then use the Album feature in MuseScore 2 (not available in MuseScore 3) to merg
 
 ![Album](README_images/album.png)
 
-Combine the scores. Set the inner margins to 14.00mm, and check for windows and orphans. Then export a PDF file.
+Combine the scores. Set the inner margins to 15.00mm, and check for windows and orphans. Then export a PDF file.
 
 Open the PDF file in Preview on MacOS or another suitable PDF editor.
 
